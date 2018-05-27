@@ -1,9 +1,7 @@
-#include "task_15_16.h"
 #define BOOST_TEST_MAIN
 
-#include "task_15_16.h"
+#include "task_15.h"
 #include <boost/test/unit_test.hpp>
-
 
 //testcase 1
 BOOST_AUTO_TEST_CASE(test_1){

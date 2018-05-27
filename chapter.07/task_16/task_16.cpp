@@ -1,4 +1,4 @@
-#include "task_15_17.h"
+#include "task_16.h"
 
 string task::getRemainedPins(int *data) {
     string result;

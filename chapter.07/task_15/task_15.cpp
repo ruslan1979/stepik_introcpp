@@ -1,4 +1,4 @@
-#include "task_15_16.h"
+#include "task_15.h"
 
 string task::isQueenTaking(int *x, int *y, int size) {        
     for (int i = 0; i != size; ++i){
